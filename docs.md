@@ -1,4 +1,5 @@
 This documentation describes how to use the Pavel automated toothbrush now.
+Change to master branch that does not conflict.
 
 Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife and trees.
 
