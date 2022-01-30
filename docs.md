@@ -7,5 +7,5 @@ Another change for Exercise 5. Here is a change for exercise 12-merging branches
 
 Changes to stash:
 The toothbrush requires [need info here].
-A change added to the same line that should conflict.
-I might have to make this line too, to ensure conflict.
+
+Here is a line where I experienced and resolved a conflict.
